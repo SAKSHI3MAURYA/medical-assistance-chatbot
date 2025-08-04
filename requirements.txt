@@ -1,5 +1,7 @@
-ctransformers == 0.2.5 
-sentence-transformers ==2.2.2
-pineclone-client
-langchain == 0.0.225
-flask
+fastapi
+uvicorn
+pandas
+pydantic
+fastapi[all]
+streamlit
+requests
